@@ -1,7 +1,7 @@
 # EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers
 
 
-**[Paper](experimental/docs/equiformer_v3_paper.pdf) (will be on ArXiv soon)** | **[Checkpoint](https://huggingface.co/yilunliao/equiformer_v3)**
+**[Paper](experimental/docs/equiformer_v3_paper.pdf) (will be on ArXiv soon)** | **[Checkpoint](https://huggingface.co/mirror-physics/equiformer_v3)**
 
 
 This repository contains the official PyTorch implementation of the work "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers".
