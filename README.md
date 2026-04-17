@@ -76,7 +76,7 @@ See [here](experimental/docs/env_setup.md) for setting up the environment.
         # Path to the directory containing .aselmdb files
         ASELMDB_DATASET=""
 
-        python experimental/datasets/create_metadata_num_edges.py --input_dir $ASELMDB_DATASET
+        python experimental/datasets/create_metadata_num_edges.py --input-dir $ASELMDB_DATASET
         
         # Rename to `metadata.npz`
         cd $ASELMDB_DATASET
@@ -93,7 +93,7 @@ See [here](experimental/docs/env_setup.md) for setting up the environment.
         # Path to the directory containing .aselmdb files
         ASELMDB_DATASET=""
 
-        python experimental/datasets/create_metadata_num_edges.py --input_dir $ASELMDB_DATASET
+        python experimental/datasets/create_metadata_num_edges.py --input-dir $ASELMDB_DATASET
         
         cd $ASELMDB_DATASET
         
